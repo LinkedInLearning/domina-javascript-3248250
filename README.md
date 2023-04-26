@@ -1,5 +1,5 @@
 # Domina JavaScript
-Este es el repositorio del curso de LinkedIn Learning `[Domina JavaScript]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina JavaScript`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
