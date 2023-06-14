@@ -1,7 +1,7 @@
 # Domina JavaScript
 Este es el repositorio del curso de LinkedIn Learning `Domina JavaScript`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![image](https://github.com/LinkedInLearning/domina-javascript-3248250/assets/71371373/d27be1ee-e32b-4e57-bd3c-88f4e1fc06a1)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -23,7 +23,7 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/gabriela-garcia).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/domina-javascript/todo-lo-que-buscas-sobre-javascript
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 
