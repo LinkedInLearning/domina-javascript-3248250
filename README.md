@@ -1,7 +1,7 @@
 # Domina JavaScript
 Este es el repositorio del curso de LinkedIn Learning `Domina JavaScript`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://github.com/LinkedInLearning/domina-javascript-3248250/assets/71371373/d27be1ee-e32b-4e57-bd3c-88f4e1fc06a1)
+![image](https://media.licdn.com/dms/image/D560DAQEKZa_nRfYHEg/learning-public-crop_675_1200/0/1686738651991?e=2147483647&v=beta&t=uFpfHNk7EPA8yQKYKy2nHnLuMSOf3j__RWJGgN0awn8)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
